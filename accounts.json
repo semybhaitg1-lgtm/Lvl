@@ -1,0 +1,122 @@
+[
+  {
+    "uid": "8500266559",
+    "password": "980224ED55E530A441B23F64CB06743A0889BA2D6D7D2A1E0F449B1EDEE0916D",
+    "name": "SEMY-1⁰⁰¹",
+    "account_id": "19252464501",
+    "open_id": "dc9767e962cd278d1f49e76bf80c592e",
+    "access_token": "88f7ca3786bf8688fad497d627aeb7d084afae1ec54bed0486153b105f7aaf38",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NDUwMSwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXcHQwPSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImRjOTc2N2U5NjJjZDI3OGQxZjQ5ZTc2YmY4MGM1OTJlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjY1NTksInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAxNzd9.vCzTWFyhIivEE-iIBIxzAAH5Kqf_IMuruIWc1xDHZwo"
+  },
+  {
+    "uid": "8500266558",
+    "password": "6EC98829860410F25C7AD7B1ABD3C438804ECCD653B0531E8715A2BEA42292F7",
+    "name": "SEMY-1⁰⁰²",
+    "account_id": "19252464502",
+    "open_id": "66b443cf896443d91102ff8e2fb5e077",
+    "access_token": "ec38f10ea152cb1bdea692fc53b2af60b30fdd55e3e727f84528ba95ea7a7dc5",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NDUwMiwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXcHRZPSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjY2YjQ0M2NmODk2NDQzZDkxMTAyZmY4ZTJmYjVlMDc3IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjY1NTgsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAxNzd9.3_8uZuZElhzCKquSUCIPXQrfh98hytr9Ea-3ZClowKk"
+  },
+  {
+    "uid": "8500266813",
+    "password": "C919844874DC9A9B3B61AD4301379493E81981FF7A6F518BD7FD89C033B93052",
+    "name": "SEMY-1⁰⁰³",
+    "account_id": "19252464885",
+    "open_id": "507d54d276058a3518242415212250fd",
+    "access_token": "dc2f9168d9b2ac61be87dee2eeb94ee5e826712310e2be2097ea8c584a88f134",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NDg4NSwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXcHRjPSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjUwN2Q1NGQyNzYwNThhMzUxODI0MjQxNTIxMjI1MGZkIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjY4MTMsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAxODJ9.bxTpD6pO0tGNZfzqWVJKlZr44fOzA5_ut6zrBQqJTtI"
+  },
+  {
+    "uid": "8500266922",
+    "password": "87B2D0868B11991104CFA8B30C3A322F9F387B043F21C8D6096037C4D66788C8",
+    "name": "SEMY-1⁰⁰⁴",
+    "account_id": "19252465158",
+    "open_id": "d69e0df5d166674b330fc9f15a92df9b",
+    "access_token": "176bd47cb2f190de48fa4bfaba53e3f0b3f45f312121fdca59f73cfdd74f996f",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NTE1OCwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXaHVXTiIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImQ2OWUwZGY1ZDE2NjY3NGIzMzBmYzlmMTVhOTJkZjliIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjY5MjIsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAxODV9.LBEU6sta3y1pRbC3F8EycbQH-cHnhikwYumXoPbRaX4"
+  },
+  {
+    "uid": "8500267027",
+    "password": "B5BFDC623675B373777B5EF681B3BDE7819EA95DC66DF8D2FD8EF7E1608410BB",
+    "name": "SEMY-1⁰⁰⁵",
+    "account_id": "19252465379",
+    "open_id": "cfb9da9dbc3214db1c33a429e312fdef",
+    "access_token": "8819218ba189b5354450069a3e3e6625f768e39053acb69ce4eadcb947345bf1",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NTM3OSwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXaHVXTSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImNmYjlkYTlkYmMzMjE0ZGIxYzMzYTQyOWUzMTJmZGVmIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjcwMjcsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAxODh9.Zg4RbXxPU37pcfJp9pJRstSGgUtzN4txeez74aCej4k"
+  },
+  {
+    "uid": "8500267074",
+    "password": "E8E08C7EF8F2FBE7B2A8BB44A4DDA069E58F3F2139425EF20FBB63FC6853AEC8",
+    "name": "SEMY-1⁰⁰⁶",
+    "account_id": "19252465478",
+    "open_id": "eea270ec837de865db05c371d40af65d",
+    "access_token": "54c584f70b72f119098f5a7ceb1ed25ef6e3cdebcba0a1a26d35503556d228e1",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NTQ3OCwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXaHVXUCIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImVlYTI3MGVjODM3ZGU4NjVkYjA1YzM3MWQ0MGFmNjVkIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjcwNzQsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAxOTB9.XccHIk4waXvM3S3hcNGF2N_a2kZVeVqryWfgCLiJg5I"
+  },
+  {
+    "uid": "8500267270",
+    "password": "A00EE22A3CCD069EA5DC1CA6DF48E07231370F109318FAE626A9C55FCB9A351B",
+    "name": "SEMY-1⁰⁰⁷",
+    "account_id": "19252465804",
+    "open_id": "cb41d6f72617d4854b9427248af340d3",
+    "access_token": "f92f0a787a2cdf8e73a87968035e277f34976ea63d8eedee8295224e12feb34b",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NTgwNCwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXaHVXTyIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6ImNiNDFkNmY3MjYxN2Q0ODU0Yjk0MjcyNDhhZjM0MGQzIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjcyNzAsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAxOTV9.i1AaVnotnTp22-UWH16Ll9i2ry-Ksc6XT2UKFUVmmwU"
+  },
+  {
+    "uid": "8500267326",
+    "password": "C202B76044A8A8FD0F0D06E16891FCC9543C28EAA84DC33A9575787788F13543",
+    "name": "SEMY-1⁰⁰⁸",
+    "account_id": "19252465909",
+    "open_id": "6913cb7efb03c0e55dcad0d855702dae",
+    "access_token": "dc122e2fde9cf26fbb666cfc9f1d6588e6aaf361645f3d701fdb89a42e86eeb2",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NTkwOSwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXaHVXQiIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjY5MTNjYjdlZmIwM2MwZTU1ZGNhZDBkODU1NzAyZGFlIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjczMjYsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAxOTZ9.h9oOlx1qGiLq2JYWWTDmPpXYxk_fQmsmn1CmnJTpVsg"
+  },
+  {
+    "uid": "8500267477",
+    "password": "B443254EEF32D0FD4FB1EEF959CFBA5D15B5FCE0BA5B7D6EC8735B4C915284D6",
+    "name": "SEMY-1⁰⁰⁹",
+    "account_id": "19252466180",
+    "open_id": "90e89e06bcb2e597d68fbc564765fa50",
+    "access_token": "a2bb81b0404fac263366b22681f42e67e4665a3762c741d400c8250a2b914701",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NjE4MCwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMydVhXaHVXQSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjkwZTg5ZTA2YmNiMmU1OTdkNjhmYmM1NjQ3NjVmYTUwIiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjc0NzcsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAyMDB9.N-SODagEJZCfH2sjPCkdiu5eWCpSuQi0YINbVneQTCM"
+  },
+  {
+    "uid": "8500267563",
+    "password": "8B497142ECC7BAAA80B3ABCFDE355F62DDDEF1E840B682E841CFF51AFE9042FC",
+    "name": "SEMY-1⁰¹⁰",
+    "account_id": "19252466240",
+    "open_id": "00ca3a2a4d305c2c323a91f60dfee789",
+    "access_token": "5346082c7f8a10344d9046b214c7cc9124d40f74da12a4ce3b2da2712e6349cc",
+    "platform": "4",
+    "region": "IND",
+    "status": "full_login",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxOTI1MjQ2NjI0MCwibmlja25hbWUiOiJZaUI0WVJRSmdlTFMrdDJFNWRRPSIsIm5vdGlfcmVnaW9uIjoiSU5EIiwibG9ja19yZWdpb24iOiJJTkQiLCJleHRlcm5hbF9pZCI6IjAwY2EzYTJhNGQzMDVjMmMzMjNhOTFmNjBkZmVlNzg5IiwiZXh0ZXJuYWxfdHlwZSI6NCwicGxhdF9pZCI6MSwiY2xpZW50X3ZlcnNpb24iOiIxLjEzNC4yMSIsImNsaWVudF92ZXJzaW9uX2NvZGUiOiIyMDE5MTIxMjI5IiwiZW11bGF0b3Jfc2NvcmUiOjAsImlzX2VtdWxhdG9yIjpmYWxzZSwiY291bnRyeV9jb2RlIjoiSU4iLCJleHRlcm5hbF91aWQiOjg1MDAyNjc1NjMsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjowLCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6Ijc0MjhiMjUzZGVmYzE2NDAxOGM2MDRhMWViYmZlYmRmIiwidXNpbmdfdmVyc2lvbiI6MSwicmVsZWFzZV9jaGFubmVsIjoiYW5kcm9pZCIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTUiLCJleHAiOjE3OTU2NjAyMDF9.6CSN5wTQ8bcpZt83tRvYLUR7hKAQMiQ3LSYnjumV1DA"
+  }
+]
